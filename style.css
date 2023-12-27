@@ -1,0 +1,27 @@
+h1 {color: #a967e7; font-size: xx-large;}
+p {color: #4c1010;}
+footer, header {background-color: #ce9aff;}
+p {font-size: medium; font-style: italic;}
+h3 {color: #f4d1ef;font-size: larger; font-style: oblique;}
+ol {color: #eac6ec;}
+li {font-size: larger;}
+#logo {height: 200px;}
+.large-text {font-size: x-large;}
+#colr {background-color: #94f4f4;}
+#cake1 {height: 500;}
+
+#cake2 {height: 500;}
+#cake3 {height: 500;}
+
+#about_container { border: 8px solid pink;
+border-radius: 
+15px; width: 800px;
+margin: auto;
+padding: 15px;
+}
+ul, header { display: flex; flex-wrap: wrap;}
+
+header {justify-content: space-around; 
+align-items: center; margin: 25px 10px;} 
+ul {list-style: none; gap: 35px;}
+
